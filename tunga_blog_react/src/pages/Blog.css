@@ -1,0 +1,11 @@
+h1.title {
+    font-size: 23.5px;
+}
+
+h1:not(.title), p {
+    margin-bottom: 15px;
+}
+
+ul {
+    padding-left: 5%;
+}
